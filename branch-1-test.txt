@@ -1,1 +1,1 @@
-Dodanie funkcji A
+Dadanie funkcji C z brancha branch-conflict-2
