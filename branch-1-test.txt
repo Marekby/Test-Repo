@@ -1,1 +1,3 @@
 Dodanie funkcji B oraz C w branchu master.
+Dodanie funkcji D w branchu master.
+
