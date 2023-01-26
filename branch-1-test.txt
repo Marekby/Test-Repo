@@ -1,1 +1,1 @@
-Dodanie funkcji B w branche branch-conflict
+Dodanie funkcji B oraz C w branchu master.
